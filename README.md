@@ -10,3 +10,11 @@ https://github.com/user-attachments/assets/72e64200-ce98-4103-a43a-bff6e9482b93
 <img width="640" height="480" alt="photo_2026-11-14_22-42-15" src="https://github.com/user-attachments/assets/c1d54194-ea69-4de8-a8a2-a245647ccdd9" />
 <img width="480" height="640" alt="photo_2026-11-14_22-42-18" src="https://github.com/user-attachments/assets/1e0e3e18-e6a4-44ac-a90c-4b59f47a2715" />
 <img width="480" height="640" alt="photo_2026-11-14_22-42-16" src="https://github.com/user-attachments/assets/6ee58f0c-d304-47e7-aa73-bd4058096847" />
+
+Вот некольшой визуальный гайд от той-же ИИ, которая написала код, собственно по нему и я собирал его.
+
+<img width="1419" height="999" alt="03-build-guide" src="https://github.com/user-attachments/assets/f824139e-1917-4a51-b1c5-14d96f6bb7c8" />
+<img width="1419" height="1025" alt="02-buttons-to-pins" src="https://github.com/user-attachments/assets/7158218d-09b8-4081-b15a-fa68af472cb0" />
+<img width="1419" height="1092" alt="01-wiring-scheme" src="https://github.com/user-attachments/assets/f9a56865-b1a5-420e-b0bb-e65e3cb41eab" />
+
+Файлы и скетч
